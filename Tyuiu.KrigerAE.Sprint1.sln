@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KrigerAE.Sprint1.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KrigerAE.Sprint1.Task4.V23.Test", "Tyuiu.KrigerAE.Sprint1.Task4.V23.Test\Tyuiu.KrigerAE.Sprint1.Task4.V23.Test.csproj", "{93D056EF-BB6D-486A-B08D-9D33CCCAEF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KrigerAE.Sprint1.Task5.V7", "Tyuiu.KrigerAE.Sprint1.Task5.V7\Tyuiu.KrigerAE.Sprint1.Task5.V7.csproj", "{EEB2DA7B-9448-4528-8902-5DEED49F270B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KrigerAE.Sprint1.Task5.V7.Lib", "Tyuiu.KrigerAE.Sprint1.Task5.V7.Lib\Tyuiu.KrigerAE.Sprint1.Task5.V7.Lib.csproj", "{ECAFCC71-8093-4A21-83A5-35C7B9BBFA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KrigerAE.Sprint1.Task5.V7.Test", "Tyuiu.KrigerAE.Sprint1.Task5.V7.Test\Tyuiu.KrigerAE.Sprint1.Task5.V7.Test.csproj", "{8D3EEC6D-27FE-4B25-94E0-ECB0576C28B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +105,18 @@ Global
 		{93D056EF-BB6D-486A-B08D-9D33CCCAEF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D056EF-BB6D-486A-B08D-9D33CCCAEF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D056EF-BB6D-486A-B08D-9D33CCCAEF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB2DA7B-9448-4528-8902-5DEED49F270B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB2DA7B-9448-4528-8902-5DEED49F270B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB2DA7B-9448-4528-8902-5DEED49F270B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB2DA7B-9448-4528-8902-5DEED49F270B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAFCC71-8093-4A21-83A5-35C7B9BBFA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFCC71-8093-4A21-83A5-35C7B9BBFA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAFCC71-8093-4A21-83A5-35C7B9BBFA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAFCC71-8093-4A21-83A5-35C7B9BBFA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3EEC6D-27FE-4B25-94E0-ECB0576C28B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3EEC6D-27FE-4B25-94E0-ECB0576C28B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3EEC6D-27FE-4B25-94E0-ECB0576C28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3EEC6D-27FE-4B25-94E0-ECB0576C28B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
